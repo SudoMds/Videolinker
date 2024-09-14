@@ -1,6 +1,8 @@
-{"categories":
-[{"name":"Movies"
-,"videos":
-[{"description":"desco","sources":["https://videos1.varzeshe3.com/videos-quality/2021/11/21/C/wqjddyf5.mp4"]
-,"subtitle":"By Blender Foundation","thumb":"https://dl.musicdel.ir/Music/1400/05/jon_lajoie_everyday_normal%20guy%202.jpg"
-,"title":"Big Buck Bunny"}}}
+{
+	"id": "6637b10c-d85a-4734-a9b1-45ac93c2f47a",
+	"host": "boys.ellikids.ir",
+	"port": "443",
+	"path": "/kalainfo?ed=2560",
+	"serverName": "boys.ellikids.ir",
+	"subnetsList": "https://raw.githubusercontent.com/MortezaBashsiz/CFScanner/main/config/cf.local.iplist"
+}
